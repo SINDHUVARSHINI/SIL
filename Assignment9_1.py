@@ -173,7 +173,6 @@ def push_func(l,Integer_table,stack_push_pop):
 
 file=open("Input_9_2.txt","r")
 lines=file.readlines()
-#print(lines)
 h={}
 line_num={}#To store line numbers
 instructions=[]
